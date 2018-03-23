@@ -1,0 +1,11 @@
+.body
+{
+  margin: 0;
+}
+
+.canvasWrapper {
+  height: 600px;
+  width: 600px;
+  margin: 100px auto;
+  border: 5px solid black;
+}
